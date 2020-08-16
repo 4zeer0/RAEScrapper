@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from csv import writer
 
 # Version
-version = "1.0"
+version = "1.1"
 
 # Create root window for TKinter
 root = Tk()
